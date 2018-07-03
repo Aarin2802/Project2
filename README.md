@@ -1,8 +1,12 @@
-# Project2
-2nd try 
- 
- Making a clone in intellij right now.
 
-this is how u do it 
 
-HOW DO U DO M8
+
+class program{
+Public static void main (String...args){
+
+System.out.println("Hello, this is my program");
+
+System.out.print a=5;
+intln(a);
+}
+}
